@@ -1,0 +1,633 @@
+date,amount,category,counterparty,description
+2024-09-01,-4800.0,rent,Oak Street Landlord,rent
+2024-09-02,-79.50320664568483,supplies,Office,supplies
+2024-09-03,-420.0,software,Toolstack,software
+2024-09-03,-44.688891420601955,supplies,Office,supplies
+2024-09-04,-42.20954152360301,supplies,Office,supplies
+2024-09-05,-62.564282192286385,supplies,Office,supplies
+2024-09-06,-900.0,contractor,Lane Design,contractor
+2024-09-06,-36.97739035826225,supplies,Office,supplies
+2024-09-06,-620.0492061342993,utilities,City Power,utilities
+2024-09-09,-36.60561254481183,supplies,Office,supplies
+2024-09-10,-58.169996912211666,supplies,Office,supplies
+2024-09-11,-55.97927113963801,supplies,Office,supplies
+2024-09-12,-76.27254979367835,supplies,Office,supplies
+2024-09-13,-63.31518145209547,supplies,Office,supplies
+2024-09-13,-900.0,contractor,Lane Design,contractor
+2024-09-16,-58.13529409697812,supplies,Office,supplies
+2024-09-17,-57.359304592707694,supplies,Office,supplies
+2024-09-18,-2400.0,marketing,Ad Network,marketing
+2024-09-18,-46.13817149122989,supplies,Office,supplies
+2024-09-19,7200.0,client_payment,Maple Goods,MA-001
+2024-09-19,-35.530731149412766,supplies,Office,supplies
+2024-09-20,-43.65809647933898,supplies,Office,supplies
+2024-09-20,-900.0,contractor,Lane Design,contractor
+2024-09-23,-66.14144543968277,supplies,Office,supplies
+2024-09-23,-22000.0,payroll,Payroll,payroll
+2024-09-24,-44.02730257941479,supplies,Office,supplies
+2024-09-25,-51.6291339770993,supplies,Office,supplies
+2024-09-25,-1800.0,loan,North Bank,loan
+2024-09-26,-35.16804089234342,supplies,Office,supplies
+2024-09-27,-72.35214784107855,supplies,Office,supplies
+2024-09-27,-900.0,contractor,Lane Design,contractor
+2024-09-30,-41.95074864776479,supplies,Office,supplies
+2024-09-30,19000.0,client_payment,Brightline Studio,BR-001
+2024-10-01,-47.041968705370344,supplies,Office,supplies
+2024-10-01,-4800.0,rent,Oak Street Landlord,rent
+2024-10-02,-74.61494692913729,supplies,Office,supplies
+2024-10-02,9400.0,client_payment,Harbor Civic,HA-001
+2024-10-03,-57.940586444079045,supplies,Office,supplies
+2024-10-03,-420.0,software,Toolstack,software
+2024-10-04,-73.12176108646412,supplies,Office,supplies
+2024-10-04,-900.0,contractor,Lane Design,contractor
+2024-10-06,-631.9498215003388,utilities,City Power,utilities
+2024-10-07,-63.78727251241368,supplies,Office,supplies
+2024-10-08,-68.37969263128358,supplies,Office,supplies
+2024-10-09,-39.11730222783706,supplies,Office,supplies
+2024-10-10,-59.351471961941996,supplies,Office,supplies
+2024-10-11,-900.0,contractor,Lane Design,contractor
+2024-10-11,-57.84975063351575,supplies,Office,supplies
+2024-10-14,-74.21027195117964,supplies,Office,supplies
+2024-10-15,-51.25688265563709,supplies,Office,supplies
+2024-10-16,-61.91828302432459,supplies,Office,supplies
+2024-10-17,-37.666323905547664,supplies,Office,supplies
+2024-10-18,-900.0,contractor,Lane Design,contractor
+2024-10-18,-2400.0,marketing,Ad Network,marketing
+2024-10-18,-52.44343104998279,supplies,Office,supplies
+2024-10-20,7200.0,client_payment,Maple Goods,MA-002
+2024-10-21,-49.5366355816193,supplies,Office,supplies
+2024-10-22,-41.75898780817033,supplies,Office,supplies
+2024-10-23,-22000.0,payroll,Payroll,payroll
+2024-10-23,-71.7352146718584,supplies,Office,supplies
+2024-10-24,-52.07507771976406,supplies,Office,supplies
+2024-10-25,-900.0,contractor,Lane Design,contractor
+2024-10-25,-1800.0,loan,North Bank,loan
+2024-10-25,-79.04365479850497,supplies,Office,supplies
+2024-10-28,-61.549626185477464,supplies,Office,supplies
+2024-10-29,-62.22753142234331,supplies,Office,supplies
+2024-10-30,-63.70984613547495,supplies,Office,supplies
+2024-10-31,-65.44026097157547,supplies,Office,supplies
+2024-11-01,-900.0,contractor,Lane Design,contractor
+2024-11-01,-41.78546086257659,supplies,Office,supplies
+2024-11-01,-4800.0,rent,Oak Street Landlord,rent
+2024-11-02,9400.0,client_payment,Harbor Civic,HA-002
+2024-11-03,-420.0,software,Toolstack,software
+2024-11-04,-54.81410602346844,supplies,Office,supplies
+2024-11-05,-45.78037828232855,supplies,Office,supplies
+2024-11-05,19000.0,client_payment,Brightline Studio,BR-002
+2024-11-06,-53.11242341467917,supplies,Office,supplies
+2024-11-06,-609.0344857855113,utilities,City Power,utilities
+2024-11-07,-39.351684226928555,supplies,Office,supplies
+2024-11-08,-78.55226229719696,supplies,Office,supplies
+2024-11-08,-900.0,contractor,Lane Design,contractor
+2024-11-11,-44.6751816810146,supplies,Office,supplies
+2024-11-12,-65.22943231750783,supplies,Office,supplies
+2024-11-13,-48.51890366655816,supplies,Office,supplies
+2024-11-14,-74.3334661767277,supplies,Office,supplies
+2024-11-15,-64.79966322523042,supplies,Office,supplies
+2024-11-15,-900.0,contractor,Lane Design,contractor
+2024-11-18,-40.92271171137376,supplies,Office,supplies
+2024-11-18,-2400.0,marketing,Ad Network,marketing
+2024-11-19,-73.02834443935488,supplies,Office,supplies
+2024-11-20,-77.52266770152409,supplies,Office,supplies
+2024-11-21,-75.6762554688167,supplies,Office,supplies
+2024-11-21,7200.0,client_payment,Maple Goods,MA-003
+2024-11-22,-60.637361653667476,supplies,Office,supplies
+2024-11-22,-900.0,contractor,Lane Design,contractor
+2024-11-23,-22000.0,payroll,Payroll,payroll
+2024-11-25,-41.54569791924171,supplies,Office,supplies
+2024-11-25,-1800.0,loan,North Bank,loan
+2024-11-26,-43.660857273574955,supplies,Office,supplies
+2024-11-27,-76.7557558135036,supplies,Office,supplies
+2024-11-28,-59.85469194502687,supplies,Office,supplies
+2024-11-29,-43.12486243020103,supplies,Office,supplies
+2024-11-29,-900.0,contractor,Lane Design,contractor
+2024-12-01,-4800.0,rent,Oak Street Landlord,rent
+2024-12-02,-74.78256023884114,supplies,Office,supplies
+2024-12-03,-63.87072673501164,supplies,Office,supplies
+2024-12-03,-420.0,software,Toolstack,software
+2024-12-04,-60.63624235132136,supplies,Office,supplies
+2024-12-04,9400.0,client_payment,Harbor Civic,HA-003
+2024-12-05,-51.932952625846404,supplies,Office,supplies
+2024-12-06,-584.376326449709,utilities,City Power,utilities
+2024-12-06,-53.492987697070845,supplies,Office,supplies
+2024-12-06,-900.0,contractor,Lane Design,contractor
+2024-12-09,-45.77701457068302,supplies,Office,supplies
+2024-12-10,-36.71257790110576,supplies,Office,supplies
+2024-12-11,-74.4298463649172,supplies,Office,supplies
+2024-12-12,-56.047859756634324,supplies,Office,supplies
+2024-12-12,19000.0,client_payment,Brightline Studio,BR-003
+2024-12-13,-900.0,contractor,Lane Design,contractor
+2024-12-13,-59.64358396461809,supplies,Office,supplies
+2024-12-16,-49.49734894011013,supplies,Office,supplies
+2024-12-17,-68.80962139347176,supplies,Office,supplies
+2024-12-18,-2400.0,marketing,Ad Network,marketing
+2024-12-18,-36.13385918607921,supplies,Office,supplies
+2024-12-19,7200.0,client_payment,Maple Goods,MA-004
+2024-12-19,-51.74833726543418,supplies,Office,supplies
+2024-12-20,-36.365763247285024,supplies,Office,supplies
+2024-12-20,-900.0,contractor,Lane Design,contractor
+2024-12-23,-22000.0,payroll,Payroll,payroll
+2024-12-23,-40.53014459922542,supplies,Office,supplies
+2024-12-24,-78.52167059288155,supplies,Office,supplies
+2024-12-25,-64.59923285173315,supplies,Office,supplies
+2024-12-25,-1800.0,loan,North Bank,loan
+2024-12-26,-54.26991108752666,supplies,Office,supplies
+2024-12-27,-58.56830485597161,supplies,Office,supplies
+2024-12-27,-900.0,contractor,Lane Design,contractor
+2024-12-30,-74.27641438541485,supplies,Office,supplies
+2024-12-31,-50.489480014821176,supplies,Office,supplies
+2025-01-01,-4800.0,rent,Oak Street Landlord,rent
+2025-01-01,-61.56309420303716,supplies,Office,supplies
+2025-01-01,9400.0,client_payment,Harbor Civic,HA-004
+2025-01-02,-65.76579680027946,supplies,Office,supplies
+2025-01-03,-420.0,software,Toolstack,software
+2025-01-03,-50.99361996605804,supplies,Office,supplies
+2025-01-03,-900.0,contractor,Lane Design,contractor
+2025-01-06,-601.8131685931311,utilities,City Power,utilities
+2025-01-06,-58.359431892319556,supplies,Office,supplies
+2025-01-07,-69.43613224753352,supplies,Office,supplies
+2025-01-08,-75.91306912957477,supplies,Office,supplies
+2025-01-09,-41.797802513456695,supplies,Office,supplies
+2025-01-10,-900.0,contractor,Lane Design,contractor
+2025-01-10,-77.00387265383428,supplies,Office,supplies
+2025-01-13,-35.23304896169444,supplies,Office,supplies
+2025-01-14,-68.88398766189893,supplies,Office,supplies
+2025-01-15,-71.47370736427604,supplies,Office,supplies
+2025-01-16,-41.15438231941617,supplies,Office,supplies
+2025-01-17,-53.85066429109333,supplies,Office,supplies
+2025-01-17,-900.0,contractor,Lane Design,contractor
+2025-01-17,19000.0,client_payment,Brightline Studio,BR-004
+2025-01-18,-2400.0,marketing,Ad Network,marketing
+2025-01-20,-71.68653250977705,supplies,Office,supplies
+2025-01-20,7200.0,client_payment,Maple Goods,MA-005
+2025-01-21,-35.642203535807475,supplies,Office,supplies
+2025-01-22,-63.28078765398308,supplies,Office,supplies
+2025-01-23,-70.68606461441153,supplies,Office,supplies
+2025-01-23,-22000.0,payroll,Payroll,payroll
+2025-01-24,-900.0,contractor,Lane Design,contractor
+2025-01-24,-58.08516122699938,supplies,Office,supplies
+2025-01-25,-1800.0,loan,North Bank,loan
+2025-01-27,-67.66322392479893,supplies,Office,supplies
+2025-01-28,-45.189056721371486,supplies,Office,supplies
+2025-01-29,-43.933451659670276,supplies,Office,supplies
+2025-01-30,-51.34071277476582,supplies,Office,supplies
+2025-01-31,-43.07327124052159,supplies,Office,supplies
+2025-01-31,-900.0,contractor,Lane Design,contractor
+2025-02-01,-4800.0,rent,Oak Street Landlord,rent
+2025-02-02,9400.0,client_payment,Harbor Civic,HA-005
+2025-02-03,-420.0,software,Toolstack,software
+2025-02-03,-50.57276476006153,supplies,Office,supplies
+2025-02-04,-77.66558276348667,supplies,Office,supplies
+2025-02-05,-60.79997229250044,supplies,Office,supplies
+2025-02-06,-50.30306303393779,supplies,Office,supplies
+2025-02-06,-580.3341378001415,utilities,City Power,utilities
+2025-02-07,-47.21860789139534,supplies,Office,supplies
+2025-02-07,-900.0,contractor,Lane Design,contractor
+2025-02-10,-77.8417770818385,supplies,Office,supplies
+2025-02-11,-55.0015194341201,supplies,Office,supplies
+2025-02-12,-79.11776378962652,supplies,Office,supplies
+2025-02-13,-58.198520109782194,supplies,Office,supplies
+2025-02-14,-58.452475806180075,supplies,Office,supplies
+2025-02-14,-900.0,contractor,Lane Design,contractor
+2025-02-17,-75.34432356722003,supplies,Office,supplies
+2025-02-18,-2400.0,marketing,Ad Network,marketing
+2025-02-18,-68.42453381967678,supplies,Office,supplies
+2025-02-19,-61.129378873377014,supplies,Office,supplies
+2025-02-20,-54.19922767263162,supplies,Office,supplies
+2025-02-21,7200.0,client_payment,Maple Goods,MA-006
+2025-02-21,-74.51845367382262,supplies,Office,supplies
+2025-02-21,-900.0,contractor,Lane Design,contractor
+2025-02-23,-22000.0,payroll,Payroll,payroll
+2025-02-23,19000.0,client_payment,Brightline Studio,BR-005
+2025-02-24,-53.52407674580998,supplies,Office,supplies
+2025-02-25,-76.52418092758104,supplies,Office,supplies
+2025-02-25,-1800.0,loan,North Bank,loan
+2025-02-26,-38.09219084548377,supplies,Office,supplies
+2025-02-27,-54.349858785552335,supplies,Office,supplies
+2025-02-28,-58.37816689450365,supplies,Office,supplies
+2025-02-28,-900.0,contractor,Lane Design,contractor
+2025-03-01,-4800.0,rent,Oak Street Landlord,rent
+2025-03-02,19000.0,client_payment,Brightline Studio,BR-006
+2025-03-03,-420.0,software,Toolstack,software
+2025-03-03,-77.79221880118324,supplies,Office,supplies
+2025-03-04,-46.29496609991412,supplies,Office,supplies
+2025-03-05,-71.2717616267949,supplies,Office,supplies
+2025-03-06,-65.4412039999367,supplies,Office,supplies
+2025-03-06,9400.0,client_payment,Harbor Civic,HA-006
+2025-03-06,-622.4057441038975,utilities,City Power,utilities
+2025-03-07,-67.26886569265054,supplies,Office,supplies
+2025-03-07,-900.0,contractor,Lane Design,contractor
+2025-03-10,-63.332998227809156,supplies,Office,supplies
+2025-03-11,-78.7202318807711,supplies,Office,supplies
+2025-03-12,-49.97066566450962,supplies,Office,supplies
+2025-03-13,-52.922400185571675,supplies,Office,supplies
+2025-03-14,-44.13102884960823,supplies,Office,supplies
+2025-03-14,-900.0,contractor,Lane Design,contractor
+2025-03-17,-37.281682487252176,supplies,Office,supplies
+2025-03-18,-44.580868773890266,supplies,Office,supplies
+2025-03-18,-2400.0,marketing,Ad Network,marketing
+2025-03-19,-76.19589787057588,supplies,Office,supplies
+2025-03-19,7200.0,client_payment,Maple Goods,MA-007
+2025-03-20,-72.80759677212754,supplies,Office,supplies
+2025-03-21,-40.058258367166054,supplies,Office,supplies
+2025-03-21,-900.0,contractor,Lane Design,contractor
+2025-03-23,-22000.0,payroll,Payroll,payroll
+2025-03-24,-62.17005613925894,supplies,Office,supplies
+2025-03-25,-1800.0,loan,North Bank,loan
+2025-03-25,-56.56384227003311,supplies,Office,supplies
+2025-03-26,-61.760819171972535,supplies,Office,supplies
+2025-03-27,-64.66737529740784,supplies,Office,supplies
+2025-03-28,-900.0,contractor,Lane Design,contractor
+2025-03-28,-48.799677089999236,supplies,Office,supplies
+2025-03-31,-78.26078801314056,supplies,Office,supplies
+2025-04-01,-55.962801577750625,supplies,Office,supplies
+2025-04-01,-4800.0,rent,Oak Street Landlord,rent
+2025-04-01,9400.0,client_payment,Harbor Civic,HA-007
+2025-04-02,-63.26453846892081,supplies,Office,supplies
+2025-04-03,-420.0,software,Toolstack,software
+2025-04-03,-63.585178275487095,supplies,Office,supplies
+2025-04-04,-43.2750228429361,supplies,Office,supplies
+2025-04-04,-900.0,contractor,Lane Design,contractor
+2025-04-05,19000.0,client_payment,Brightline Studio,BR-007
+2025-04-06,-673.6086098221814,utilities,City Power,utilities
+2025-04-07,-37.783943817036835,supplies,Office,supplies
+2025-04-08,-53.518257057408874,supplies,Office,supplies
+2025-04-09,-69.38135397973109,supplies,Office,supplies
+2025-04-10,-71.68498047312973,supplies,Office,supplies
+2025-04-11,-900.0,contractor,Lane Design,contractor
+2025-04-11,-67.84951620509293,supplies,Office,supplies
+2025-04-14,-40.09422286363503,supplies,Office,supplies
+2025-04-15,-76.10096876889705,supplies,Office,supplies
+2025-04-16,-71.09164600987776,supplies,Office,supplies
+2025-04-17,-74.496111499229,supplies,Office,supplies
+2025-04-18,-2400.0,marketing,Ad Network,marketing
+2025-04-18,-900.0,contractor,Lane Design,contractor
+2025-04-18,-58.54868688388298,supplies,Office,supplies
+2025-04-20,7200.0,client_payment,Maple Goods,MA-008
+2025-04-21,-76.20359457953296,supplies,Office,supplies
+2025-04-22,-37.09935070792492,supplies,Office,supplies
+2025-04-23,-22000.0,payroll,Payroll,payroll
+2025-04-23,-36.362997526922086,supplies,Office,supplies
+2025-04-24,-35.90970080102661,supplies,Office,supplies
+2025-04-25,-900.0,contractor,Lane Design,contractor
+2025-04-25,-1800.0,loan,North Bank,loan
+2025-04-25,-46.37459050786054,supplies,Office,supplies
+2025-04-28,-46.18563979440423,supplies,Office,supplies
+2025-04-29,-43.4376500460185,supplies,Office,supplies
+2025-04-30,-60.5175118273428,supplies,Office,supplies
+2025-05-01,-4800.0,rent,Oak Street Landlord,rent
+2025-05-01,-36.75436284648704,supplies,Office,supplies
+2025-05-02,-61.56745405256833,supplies,Office,supplies
+2025-05-02,-900.0,contractor,Lane Design,contractor
+2025-05-03,-420.0,software,Toolstack,software
+2025-05-03,9400.0,client_payment,Harbor Civic,HA-008
+2025-05-05,-42.47050188712477,supplies,Office,supplies
+2025-05-06,-65.50431688552892,supplies,Office,supplies
+2025-05-06,-600.3117392579468,utilities,City Power,utilities
+2025-05-07,-35.9483909499751,supplies,Office,supplies
+2025-05-08,-48.97565886739377,supplies,Office,supplies
+2025-05-09,-900.0,contractor,Lane Design,contractor
+2025-05-09,-77.22535790890763,supplies,Office,supplies
+2025-05-12,19000.0,client_payment,Brightline Studio,BR-008
+2025-05-12,-59.22783709447601,supplies,Office,supplies
+2025-05-13,-71.52143312360379,supplies,Office,supplies
+2025-05-14,-64.61117367252766,supplies,Office,supplies
+2025-05-15,-62.483785352608685,supplies,Office,supplies
+2025-05-16,-900.0,contractor,Lane Design,contractor
+2025-05-16,-43.60637060382038,supplies,Office,supplies
+2025-05-18,-2400.0,marketing,Ad Network,marketing
+2025-05-19,-60.84776367160127,supplies,Office,supplies
+2025-05-20,-36.785888830655,supplies,Office,supplies
+2025-05-21,7200.0,client_payment,Maple Goods,MA-009
+2025-05-21,-71.0748982291343,supplies,Office,supplies
+2025-05-22,-78.20319126617792,supplies,Office,supplies
+2025-05-23,-22000.0,payroll,Payroll,payroll
+2025-05-23,-900.0,contractor,Lane Design,contractor
+2025-05-23,-73.43040821038304,supplies,Office,supplies
+2025-05-25,-1800.0,loan,North Bank,loan
+2025-05-26,-37.28193406847275,supplies,Office,supplies
+2025-05-27,-50.23970375210983,supplies,Office,supplies
+2025-05-28,-49.310143903802704,supplies,Office,supplies
+2025-05-29,-40.07226462752915,supplies,Office,supplies
+2025-05-30,-900.0,contractor,Lane Design,contractor
+2025-05-30,-63.19753186976545,supplies,Office,supplies
+2025-06-01,-4800.0,rent,Oak Street Landlord,rent
+2025-06-02,-70.885617891485,supplies,Office,supplies
+2025-06-03,9400.0,client_payment,Harbor Civic,HA-009
+2025-06-03,-420.0,software,Toolstack,software
+2025-06-03,-49.117466240100974,supplies,Office,supplies
+2025-06-04,-73.82641557134306,supplies,Office,supplies
+2025-06-05,-70.87071107807584,supplies,Office,supplies
+2025-06-06,-900.0,contractor,Lane Design,contractor
+2025-06-06,-40.81120736634462,supplies,Office,supplies
+2025-06-06,-595.1810040072024,utilities,City Power,utilities
+2025-06-09,-69.508662053217,supplies,Office,supplies
+2025-06-10,-74.71793239558632,supplies,Office,supplies
+2025-06-11,-43.87771564242859,supplies,Office,supplies
+2025-06-12,-60.81385307743354,supplies,Office,supplies
+2025-06-13,-63.74374847099463,supplies,Office,supplies
+2025-06-13,-900.0,contractor,Lane Design,contractor
+2025-06-16,-62.42004158716699,supplies,Office,supplies
+2025-06-17,-39.33105549326196,supplies,Office,supplies
+2025-06-17,19000.0,client_payment,Brightline Studio,BR-009
+2025-06-18,-64.75361574567272,supplies,Office,supplies
+2025-06-18,-2400.0,marketing,Ad Network,marketing
+2025-06-19,7200.0,client_payment,Maple Goods,MA-010
+2025-06-19,-63.43796261057834,supplies,Office,supplies
+2025-06-20,-900.0,contractor,Lane Design,contractor
+2025-06-20,-72.07484700509065,supplies,Office,supplies
+2025-06-23,-71.15807146086478,supplies,Office,supplies
+2025-06-23,-22000.0,payroll,Payroll,payroll
+2025-06-24,-49.72256935696951,supplies,Office,supplies
+2025-06-25,-1800.0,loan,North Bank,loan
+2025-06-25,-67.49212998169493,supplies,Office,supplies
+2025-06-26,-74.02730244075602,supplies,Office,supplies
+2025-06-27,-75.18264911858553,supplies,Office,supplies
+2025-06-27,-900.0,contractor,Lane Design,contractor
+2025-06-30,-42.26805471261497,supplies,Office,supplies
+2025-07-01,-36.20160575388281,supplies,Office,supplies
+2025-07-01,-4800.0,rent,Oak Street Landlord,rent
+2025-07-02,-64.28633495400028,supplies,Office,supplies
+2025-07-02,9400.0,client_payment,Harbor Civic,HA-010
+2025-07-03,-420.0,software,Toolstack,software
+2025-07-03,-44.66043227346935,supplies,Office,supplies
+2025-07-04,-900.0,contractor,Lane Design,contractor
+2025-07-04,-60.36693759201812,supplies,Office,supplies
+2025-07-06,-639.5936820074079,utilities,City Power,utilities
+2025-07-07,-77.51620384130784,supplies,Office,supplies
+2025-07-08,-52.069383091365545,supplies,Office,supplies
+2025-07-09,-46.374854767293805,supplies,Office,supplies
+2025-07-10,-55.542952248284124,supplies,Office,supplies
+2025-07-11,-900.0,contractor,Lane Design,contractor
+2025-07-11,-64.57597609718302,supplies,Office,supplies
+2025-07-14,-39.54945355345964,supplies,Office,supplies
+2025-07-15,-52.12631435752442,supplies,Office,supplies
+2025-07-16,-41.01745349773352,supplies,Office,supplies
+2025-07-17,-64.81007997264142,supplies,Office,supplies
+2025-07-18,-72.37486395184328,supplies,Office,supplies
+2025-07-18,-2400.0,marketing,Ad Network,marketing
+2025-07-18,-900.0,contractor,Lane Design,contractor
+2025-07-20,7200.0,client_payment,Maple Goods,MA-011
+2025-07-21,-51.95842016339521,supplies,Office,supplies
+2025-07-22,-51.72757787484882,supplies,Office,supplies
+2025-07-23,-59.27847465263456,supplies,Office,supplies
+2025-07-23,-22000.0,payroll,Payroll,payroll
+2025-07-24,-44.67760008371421,supplies,Office,supplies
+2025-07-24,19000.0,client_payment,Brightline Studio,BR-010
+2025-07-25,-46.13343162275469,supplies,Office,supplies
+2025-07-25,-900.0,contractor,Lane Design,contractor
+2025-07-25,-1800.0,loan,North Bank,loan
+2025-07-28,-49.843352747708636,supplies,Office,supplies
+2025-07-29,-55.584156416219784,supplies,Office,supplies
+2025-07-30,-38.6689157136158,supplies,Office,supplies
+2025-07-30,19000.0,client_payment,Brightline Studio,BR-011
+2025-07-31,-68.87294613651525,supplies,Office,supplies
+2025-08-01,-4800.0,rent,Oak Street Landlord,rent
+2025-08-01,-900.0,contractor,Lane Design,contractor
+2025-08-01,-61.05745584931644,supplies,Office,supplies
+2025-08-02,9400.0,client_payment,Harbor Civic,HA-011
+2025-08-03,-420.0,software,Toolstack,software
+2025-08-04,-48.486224280072555,supplies,Office,supplies
+2025-08-05,-38.48959575579513,supplies,Office,supplies
+2025-08-06,-634.2754803264024,utilities,City Power,utilities
+2025-08-06,-69.34314281306665,supplies,Office,supplies
+2025-08-07,-40.89855447310943,supplies,Office,supplies
+2025-08-08,-900.0,contractor,Lane Design,contractor
+2025-08-08,-40.99429890573552,supplies,Office,supplies
+2025-08-11,-40.88079106132745,supplies,Office,supplies
+2025-08-12,-38.65680400021957,supplies,Office,supplies
+2025-08-13,-75.78765644301157,supplies,Office,supplies
+2025-08-14,-47.115993485302575,supplies,Office,supplies
+2025-08-15,-900.0,contractor,Lane Design,contractor
+2025-08-15,-48.78847606430871,supplies,Office,supplies
+2025-08-18,-2400.0,marketing,Ad Network,marketing
+2025-08-18,-72.47574395009305,supplies,Office,supplies
+2025-08-19,-62.89655568703106,supplies,Office,supplies
+2025-08-20,-43.42145239433235,supplies,Office,supplies
+2025-08-21,-54.5666035569465,supplies,Office,supplies
+2025-08-21,7200.0,client_payment,Maple Goods,MA-012
+2025-08-22,-900.0,contractor,Lane Design,contractor
+2025-08-22,-74.7765109124966,supplies,Office,supplies
+2025-08-23,-22000.0,payroll,Payroll,payroll
+2025-08-25,-51.891830765875866,supplies,Office,supplies
+2025-08-25,-1800.0,loan,North Bank,loan
+2025-08-26,-66.98966989384401,supplies,Office,supplies
+2025-08-27,-39.35634689764106,supplies,Office,supplies
+2025-08-28,-67.72961495323447,supplies,Office,supplies
+2025-08-29,-69.94130858293609,supplies,Office,supplies
+2025-08-29,-900.0,contractor,Lane Design,contractor
+2025-09-01,-4800.0,rent,Oak Street Landlord,rent
+2025-09-01,-72.15950517659597,supplies,Office,supplies
+2025-09-02,-65.3390445695845,supplies,Office,supplies
+2025-09-03,9400.0,client_payment,Harbor Civic,HA-012
+2025-09-03,-420.0,software,Toolstack,software
+2025-09-03,-51.68297576718136,supplies,Office,supplies
+2025-09-04,-37.889540007474665,supplies,Office,supplies
+2025-09-05,-900.0,contractor,Lane Design,contractor
+2025-09-05,19000.0,client_payment,Brightline Studio,BR-012
+2025-09-05,-58.34493053271327,supplies,Office,supplies
+2025-09-06,-624.2165699599159,utilities,City Power,utilities
+2025-09-08,-69.08569578719909,supplies,Office,supplies
+2025-09-09,-43.58771915703547,supplies,Office,supplies
+2025-09-10,-46.980675197582464,supplies,Office,supplies
+2025-09-11,-59.12540190707175,supplies,Office,supplies
+2025-09-12,-68.67492033040637,supplies,Office,supplies
+2025-09-12,-900.0,contractor,Lane Design,contractor
+2025-09-15,-75.34640288416308,supplies,Office,supplies
+2025-09-16,-40.65836828903761,supplies,Office,supplies
+2025-09-17,-43.29215957899235,supplies,Office,supplies
+2025-09-18,-70.97916371246643,supplies,Office,supplies
+2025-09-18,-2400.0,marketing,Ad Network,marketing
+2025-09-19,7200.0,client_payment,Maple Goods,MA-013
+2025-09-19,-64.00347303605636,supplies,Office,supplies
+2025-09-19,-900.0,contractor,Lane Design,contractor
+2025-09-22,-67.44377563144899,supplies,Office,supplies
+2025-09-23,-79.85470242640912,supplies,Office,supplies
+2025-09-23,-22000.0,payroll,Payroll,payroll
+2025-09-24,-77.26309814108966,supplies,Office,supplies
+2025-09-25,-72.93612800787137,supplies,Office,supplies
+2025-09-25,-1800.0,loan,North Bank,loan
+2025-09-26,-69.9702114073932,supplies,Office,supplies
+2025-09-26,-900.0,contractor,Lane Design,contractor
+2025-09-29,-52.77586468428966,supplies,Office,supplies
+2025-09-30,-63.85530997744168,supplies,Office,supplies
+2025-10-01,-43.300053910096054,supplies,Office,supplies
+2025-10-01,-4800.0,rent,Oak Street Landlord,rent
+2025-10-02,-69.17725093763626,supplies,Office,supplies
+2025-10-02,9400.0,client_payment,Harbor Civic,HA-013
+2025-10-03,-420.0,software,Toolstack,software
+2025-10-03,-69.09607990332749,supplies,Office,supplies
+2025-10-03,-900.0,contractor,Lane Design,contractor
+2025-10-06,-582.7812782116719,utilities,City Power,utilities
+2025-10-06,-67.45828461356236,supplies,Office,supplies
+2025-10-07,-55.015956099205056,supplies,Office,supplies
+2025-10-08,-52.018114795586946,supplies,Office,supplies
+2025-10-09,-53.88969195664736,supplies,Office,supplies
+2025-10-10,-900.0,contractor,Lane Design,contractor
+2025-10-10,-36.500265580006094,supplies,Office,supplies
+2025-10-12,19000.0,client_payment,Brightline Studio,BR-013
+2025-10-13,-72.99440523851719,supplies,Office,supplies
+2025-10-14,-59.40664448996471,supplies,Office,supplies
+2025-10-15,-52.43833875507791,supplies,Office,supplies
+2025-10-16,-59.66129457197175,supplies,Office,supplies
+2025-10-17,-67.4738098333848,supplies,Office,supplies
+2025-10-17,-900.0,contractor,Lane Design,contractor
+2025-10-18,-2400.0,marketing,Ad Network,marketing
+2025-10-20,-52.16573912292781,supplies,Office,supplies
+2025-10-20,7200.0,client_payment,Maple Goods,MA-014
+2025-10-21,-72.37883030353963,supplies,Office,supplies
+2025-10-22,-76.37585058374242,supplies,Office,supplies
+2025-10-23,-52.434453378979,supplies,Office,supplies
+2025-10-23,-22000.0,payroll,Payroll,payroll
+2025-10-24,-41.2017269457469,supplies,Office,supplies
+2025-10-24,-900.0,contractor,Lane Design,contractor
+2025-10-25,-1800.0,loan,North Bank,loan
+2025-10-27,-69.2167983195582,supplies,Office,supplies
+2025-10-28,-79.68269864368727,supplies,Office,supplies
+2025-10-29,-41.65946669429291,supplies,Office,supplies
+2025-10-30,-67.07040542276592,supplies,Office,supplies
+2025-10-31,-72.13955301350181,supplies,Office,supplies
+2025-10-31,-900.0,contractor,Lane Design,contractor
+2025-11-01,-4800.0,rent,Oak Street Landlord,rent
+2025-11-02,9400.0,client_payment,Harbor Civic,HA-014
+2025-11-03,-76.42573752483625,supplies,Office,supplies
+2025-11-03,-420.0,software,Toolstack,software
+2025-11-04,-40.55216364249085,supplies,Office,supplies
+2025-11-05,-39.131446091822426,supplies,Office,supplies
+2025-11-06,-618.829927101469,utilities,City Power,utilities
+2025-11-06,-79.454221183094,supplies,Office,supplies
+2025-11-07,-40.25404182957148,supplies,Office,supplies
+2025-11-07,-900.0,contractor,Lane Design,contractor
+2025-11-10,-42.95634016116032,supplies,Office,supplies
+2025-11-11,-60.87288202230586,supplies,Office,supplies
+2025-11-12,-55.08228663303356,supplies,Office,supplies
+2025-11-13,-68.76764860975248,supplies,Office,supplies
+2025-11-14,-43.5750761671151,supplies,Office,supplies
+2025-11-14,-900.0,contractor,Lane Design,contractor
+2025-11-17,-76.14924927019638,supplies,Office,supplies
+2025-11-17,19000.0,client_payment,Brightline Studio,BR-014
+2025-11-18,-44.77376808384751,supplies,Office,supplies
+2025-11-18,-2400.0,marketing,Ad Network,marketing
+2025-11-19,-69.6099945583988,supplies,Office,supplies
+2025-11-20,-38.04215863733273,supplies,Office,supplies
+2025-11-21,-900.0,contractor,Lane Design,contractor
+2025-11-21,7200.0,client_payment,Maple Goods,MA-015
+2025-11-21,-56.30311644907244,supplies,Office,supplies
+2025-11-23,-22000.0,payroll,Payroll,payroll
+2025-11-24,-36.46512469903369,supplies,Office,supplies
+2025-11-25,-1800.0,loan,North Bank,loan
+2025-11-25,-49.121481787869634,supplies,Office,supplies
+2025-11-26,-49.050380337876305,supplies,Office,supplies
+2025-11-27,-67.3886797612359,supplies,Office,supplies
+2025-11-28,-900.0,contractor,Lane Design,contractor
+2025-11-28,-55.475786741857995,supplies,Office,supplies
+2025-12-01,-37.55484630768125,supplies,Office,supplies
+2025-12-01,-4800.0,rent,Oak Street Landlord,rent
+2025-12-02,-79.79127467430486,supplies,Office,supplies
+2025-12-03,-74.99146880187497,supplies,Office,supplies
+2025-12-03,-420.0,software,Toolstack,software
+2025-12-04,9400.0,client_payment,Harbor Civic,HA-015
+2025-12-04,-76.23457707380314,supplies,Office,supplies
+2025-12-05,-900.0,contractor,Lane Design,contractor
+2025-12-05,-46.09589885331374,supplies,Office,supplies
+2025-12-06,-647.8121277783315,utilities,City Power,utilities
+2025-12-08,-52.73496146262356,supplies,Office,supplies
+2025-12-09,-45.2230775411009,supplies,Office,supplies
+2025-12-10,-40.62078719799496,supplies,Office,supplies
+2025-12-11,-36.486076609958104,supplies,Office,supplies
+2025-12-12,-900.0,contractor,Lane Design,contractor
+2025-12-12,-57.650140159388314,supplies,Office,supplies
+2025-12-15,-40.54101452298754,supplies,Office,supplies
+2025-12-16,-42.93369671156572,supplies,Office,supplies
+2025-12-17,-73.72140562059295,supplies,Office,supplies
+2025-12-18,-56.79092458852691,supplies,Office,supplies
+2025-12-18,-2400.0,marketing,Ad Network,marketing
+2025-12-19,7200.0,client_payment,Maple Goods,MA-016
+2025-12-19,-900.0,contractor,Lane Design,contractor
+2025-12-19,-43.26665844591122,supplies,Office,supplies
+2025-12-22,-65.14390519177906,supplies,Office,supplies
+2025-12-23,-46.963919496266875,supplies,Office,supplies
+2025-12-23,-22000.0,payroll,Payroll,payroll
+2025-12-24,-58.712174002252574,supplies,Office,supplies
+2025-12-24,19000.0,client_payment,Brightline Studio,BR-015
+2025-12-25,-47.7328790538055,supplies,Office,supplies
+2025-12-25,-1800.0,loan,North Bank,loan
+2025-12-26,-58.22725343799247,supplies,Office,supplies
+2025-12-26,-900.0,contractor,Lane Design,contractor
+2025-12-29,-63.28401158371183,supplies,Office,supplies
+2025-12-30,19000.0,client_payment,Brightline Studio,BR-016
+2025-12-30,-59.129363579357054,supplies,Office,supplies
+2025-12-31,-52.802184828270526,supplies,Office,supplies
+2026-01-01,-70.58662094467381,supplies,Office,supplies
+2026-01-01,-4800.0,rent,Oak Street Landlord,rent
+2026-01-01,9400.0,client_payment,Harbor Civic,HA-016
+2026-01-02,-900.0,contractor,Lane Design,contractor
+2026-01-02,-74.3046852115558,supplies,Office,supplies
+2026-01-03,-420.0,software,Toolstack,software
+2026-01-05,-43.07170686596928,supplies,Office,supplies
+2026-01-06,-41.13389261681137,supplies,Office,supplies
+2026-01-06,-566.2314181085967,utilities,City Power,utilities
+2026-01-07,-40.09362383519192,supplies,Office,supplies
+2026-01-08,-79.08185287017427,supplies,Office,supplies
+2026-01-09,-77.3716086285163,supplies,Office,supplies
+2026-01-09,-900.0,contractor,Lane Design,contractor
+2026-01-12,-45.380023203549605,supplies,Office,supplies
+2026-01-13,-78.6458408111977,supplies,Office,supplies
+2026-01-14,-44.35179502055318,supplies,Office,supplies
+2026-01-15,-57.79142072846589,supplies,Office,supplies
+2026-01-16,-57.38232698987819,supplies,Office,supplies
+2026-01-16,-900.0,contractor,Lane Design,contractor
+2026-01-18,-2400.0,marketing,Ad Network,marketing
+2026-01-19,-76.1730156232478,supplies,Office,supplies
+2026-01-20,-36.82379869526494,supplies,Office,supplies
+2026-01-20,7200.0,client_payment,Maple Goods,MA-017
+2026-01-21,-49.190786649547164,supplies,Office,supplies
+2026-01-22,-61.99886143095774,supplies,Office,supplies
+2026-01-23,-900.0,contractor,Lane Design,contractor
+2026-01-23,-37.987919832647556,supplies,Office,supplies
+2026-01-23,-22000.0,payroll,Payroll,payroll
+2026-01-25,-1800.0,loan,North Bank,loan
+2026-01-26,-45.644775938270975,supplies,Office,supplies
+2026-01-27,-55.92785543438932,supplies,Office,supplies
+2026-01-28,-74.63856620911525,supplies,Office,supplies
+2026-01-29,-69.24317847460046,supplies,Office,supplies
+2026-01-30,-900.0,contractor,Lane Design,contractor
+2026-01-30,-72.30412113027836,supplies,Office,supplies
+2026-02-01,-4800.0,rent,Oak Street Landlord,rent
+2026-02-02,-69.24813976381905,supplies,Office,supplies
+2026-02-02,9400.0,client_payment,Harbor Civic,HA-017
+2026-02-03,-420.0,software,Toolstack,software
+2026-02-03,-66.84743492224024,supplies,Office,supplies
+2026-02-04,-73.2362004190901,supplies,Office,supplies
+2026-02-05,19000.0,client_payment,Brightline Studio,BR-017
+2026-02-05,-65.666451083151,supplies,Office,supplies
+2026-02-06,-601.6953695583912,utilities,City Power,utilities
+2026-02-06,-68.10573766911205,supplies,Office,supplies
+2026-02-06,-900.0,contractor,Lane Design,contractor
+2026-02-09,-48.57400262384964,supplies,Office,supplies
+2026-02-10,-42.543832530443375,supplies,Office,supplies
+2026-02-11,-69.04362406201048,supplies,Office,supplies
+2026-02-12,-42.462678309589755,supplies,Office,supplies
+2026-02-13,-900.0,contractor,Lane Design,contractor
+2026-02-13,-76.3755133183986,supplies,Office,supplies
+2026-02-16,-61.84892768102546,supplies,Office,supplies
+2026-02-17,-49.824535079232135,supplies,Office,supplies
+2026-02-18,-4500.0,marketing,Ad Network,campaign overrun
+2026-02-18,-2400.0,marketing,Ad Network,marketing
+2026-02-18,-77.1489420493558,supplies,Office,supplies
+2026-02-19,-41.98086223720301,supplies,Office,supplies
+2026-02-20,-58.150985196286086,supplies,Office,supplies
+2026-02-20,-900.0,contractor,Lane Design,contractor
+2026-02-21,7200.0,client_payment,Maple Goods,MA-018
+2026-02-23,-39.11993329473062,supplies,Office,supplies
+2026-02-23,-22000.0,payroll,Payroll,payroll
+2026-02-24,-78.44424690880582,supplies,Office,supplies
+2026-02-25,-60.8919227815233,supplies,Office,supplies
+2026-02-25,-1800.0,loan,North Bank,loan
+2026-02-26,-71.16499690100243,supplies,Office,supplies
+2026-02-27,-47.686508839146626,supplies,Office,supplies
+2026-02-27,-900.0,contractor,Lane Design,contractor
+2026-02-28,32000.0,client_payment,Seasonal Retainer,SR-014
+2026-03-01,-4800.0,rent,Oak Street Landlord,rent
+2026-03-02,-71.08084820008425,supplies,Office,supplies
